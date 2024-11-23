@@ -1,7 +1,7 @@
 # Gutem Tag! 👋
 ### Statistiken
 ![FuchsFuchs1's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjox&show_icons=true&theme=dark)
- <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=300&langs_count=100&theme=algolia&border_radius=20&username=fjox" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=100&theme=algolia&username=fjox" />
 
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)
 <!--
