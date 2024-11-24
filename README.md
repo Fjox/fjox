@@ -2,7 +2,7 @@
 ### Statistiken
 ![FuchsFuchs1's GitHub stats](https://github-readme-stats.vercel.app/api?username=fjox&show_icons=true&theme=dark)
 
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=100&theme=algolia&fjox" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&layout=compact&langs_count=100&theme=algolia&username=fjox" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fjox&theme=algolia)
 <!--
